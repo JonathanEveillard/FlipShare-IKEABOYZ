@@ -1,6 +1,10 @@
 # Project Description
                           ----------Participaion at HackTheHill-2 with amazing teamates known as the IKEA BOYZ.----------
 
+**PREVIEW**
+
+![Example Image](/home.png)
+
 **Inspiration:**
   People deserve the privacy that is not provided to them often. In such cases, it's often easy to forget how much vulnerable these protocols make us, and how they are often abused. We wanted to learn the whole network aspect of software engineering, which was new to all of us, to understand how stuff around us works, and how we can make it safe for our community.
 
@@ -19,8 +23,8 @@
 
 **What we learned:**
   We learnt about how networking actually works, and how communication happens over deep layers of networks around the world.
-**
-What's next for Ciena P2P File Sharing Challenge:**
+
+**What's next for Ciena P2P File Sharing Challenge:**
 Inter-Network Communication and more testing with increasing number of nodes.
 
 Built With:
