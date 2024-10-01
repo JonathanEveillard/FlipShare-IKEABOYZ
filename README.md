@@ -4,9 +4,7 @@
 **PREVIEW**
 
 ![Home](/home.png)
-<div style="border-left: 1px solid black; height: 500px;"></div>
 ![Sending Page](/Send.png)
-<div style="border-left: 1px solid black; height: 500px;"></div>
 ![Log In Page](/Log.png)
 
 **Inspiration:**
